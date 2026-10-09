@@ -1,0 +1,18 @@
+{
+  "name": "gen-guard",
+  "version": "0.1.0",
+  "description": "Stops Claude from hand-editing generated, vendored and lock files, and points it at the source or generator instead.",
+  "author": {
+    "name": "Adam Wanninger",
+    "email": "adam@awanninger.com"
+  },
+  "homepage": "https://github.com/ajwann/gen-guard",
+  "repository": "https://github.com/ajwann/gen-guard",
+  "license": "MIT",
+  "keywords": [
+    "codegen",
+    "guard",
+    "hooks",
+    "lockfiles"
+  ]
+}
